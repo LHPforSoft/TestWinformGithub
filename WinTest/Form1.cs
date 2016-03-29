@@ -19,7 +19,7 @@ namespace WinTest
 
         private void button1_Click(object sender, EventArgs e)
         {
-
+            this.Text = "这是个按钮";
         }
     }
 }
